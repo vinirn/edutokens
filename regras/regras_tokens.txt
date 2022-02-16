@@ -1,0 +1,22 @@
+Sobre os tokens
+
+Os tokens são códigos intransferíveis, nominais a cada discente.
+
+São criptografados, assim, não podem ser criados a esmo ou corrompidos.
+
+Ao longo do curso, o professor emitirá tokens no Sigaa em canais de comunicação extra-oficiais como recompensa em troca de atividades, assiduidade e empenho dos discentes.
+
+É de responsabilidade do discente guardar cada token emitido.
+
+Os tokens serão devolvidos ao professor via tarefa cadastrada no Sigaa no tópico de avaliação da unidade correspondente, e passarão por uma checagem de validade.
+
+Cada token só é válido para a unidade correspondente, não podendo ser aproveitado em outras unidades.
+
+Cada token retornado vale um aumento de 1% na nota de todas as atividades objetivas da unidade.
+
+O cálculo do aumento total devido a todos os tokens retornados na unidade seguem juros simples. Por exemplo, se 5 tokens são retornados, o aumento das notas será de 5%.
+
+Exemplos de atividades objetivas: os questionários Moodle.
+
+O aumento nas notas das atividades objetivas não poderá exceder 20%. Assim, mesmo que o aluno retorne 21 tokens, só haverá aumento de 20% nas notas de suas atividades objetivas. Os tokens que sobrarem não poderão ser aproveitados em outra unidade.
+
